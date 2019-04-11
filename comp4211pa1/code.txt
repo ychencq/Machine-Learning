@@ -1,0 +1,20 @@
+This is a read me file
+
+the running file name is comp4211pa1.ipynb. Open with JupyterLab, it has 6 cells totally
+
+To run the whole program successfully, just run each cell orderly.
+
+1. the first cell is about some library import, data loading preparation, and the task of linear regression, after you run it, all the 3 datasets will be implemented by linear regression methods.
+
+2. The second cell is about logistic regression for the three datasets.
+
+3. The thrid one is visiualization function which will be used in the following parts
+
+4. The fourth one is about implementing the nerual network model for Orbits dataset. all the result required will be printed out.
+
+5. The fifth one is about implementing the nerual network model for Fifa dataset.
+
+6. The sixth one is about implementing the nerual network model for finance dataset.
+
+
+
